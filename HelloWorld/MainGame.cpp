@@ -2,8 +2,8 @@
 #define PLAY_USING_GAMEOBJECT_MANAGER
 #include "Play.h"
 
-int DISPLAY_WIDTH = 640;
-int DISPLAY_HEIGHT = 360;
+int DISPLAY_WIDTH = 1000;
+int DISPLAY_HEIGHT = 500;
 int DISPLAY_SCALE = 1;
 int score = 0;
 
